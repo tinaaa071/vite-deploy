@@ -16,7 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
       </nav>
     </div>
   </header>
-
+  <h1 class="text-danger">Tina Vue</h1>
   <RouterView />
 </template>
 
